@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @LEX-DAY
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach Telegram @lex_day
-
-<!---
-LEX-DAY/LEX-DAY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A software engineer with many years of experience. I specialize in software development, process automation, and working with Python, SQL (PostgreSQL), Telegram API, and Web development. I have experience writing PowerShell scripts for remote administration. I can optimize queries in databases, develop bots and automated systems. I am distinguished by my analytical thinking, attention to detail, and ability to solve non-standard tasks.
